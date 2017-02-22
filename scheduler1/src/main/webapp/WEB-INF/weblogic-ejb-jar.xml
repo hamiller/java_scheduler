@@ -1,0 +1,6 @@
+<wls:weblogic-ejb-jar
+	xmlns:wls="http://xmlns.oracle.com/weblogic/weblogic-ejb-jar"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="">
+	<wls:timer-implementation>Clustered</wls:timer-implementation>
+</wls:weblogic-ejb-jar> 
